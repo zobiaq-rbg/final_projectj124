@@ -10,7 +10,7 @@ Within this project, we will be analyzing data from:
 *Report on Juvenile Felony Arrests in California, 1998
 *
 
-![Investigating Crime](https://media.journalism.berkeley.edu/upload/2020/08/159720056511d6591.png/400/300)
+![Investigating Crime](https://media.journalism.berkeley.edu/upload/2020/08/159720056511d6591.png)
 
 The formula I used was:
 
