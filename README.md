@@ -5,9 +5,9 @@ Analyzing crime data can be helpful to understand how to best influence structur
 When analyzing crime data, I try to apply this lens and try to understand the entire narrative. What is the best way forward to promote a just society where everyone is safe, regardless of socioeconomic status or racial background? However, how also can we ensure that those who enter into the carceral system have acted in a way that is justified? Especially now, we are seeing how flawed systems are, with the murders of Ahmaud Arbery, Christian Cooper, Breonna Taylor, George Floyd, and the many more wrongful murders who go largely unheard. Going into this project, I hope to be able to utilize the data I analyze to better understand what type of systemic change is necessary and to note to myself that what I see in the data may not be the entire story, as Professor Rue spoke to in class. 
 
 
-
+Within this project, we will be analyzing data from:
 *
-*
+*Report on Juvenile Felony Arrests in California, 1998
 *
 
 ![Picture of a cat](http://placekitten.com/400/300)
