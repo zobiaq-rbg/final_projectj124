@@ -6,11 +6,13 @@ When analyzing crime data, I try to apply this lens and try to understand the en
 
 
 Within this project, we will be analyzing data from:
-*
-*Report on Juvenile Felony Arrests in California, 1998
+*California Crime Data Statistics 
+*Juvenile Justice in CA 
 *
 
 ![Investigating Crime](https://media.journalism.berkeley.edu/upload/2020/08/159720056511d6591.png)
+
+
 
 The formula I used was:
 
@@ -18,4 +20,4 @@ The formula I used was:
 =VLOOKUP("Something," A2:157, 1, false)
 ```
 
-
+![Canva Graphic](https://media.journalism.berkeley.edu/upload/2020/08/159720056511d6591.png)
