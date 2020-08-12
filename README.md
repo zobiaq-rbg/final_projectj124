@@ -10,7 +10,7 @@ Within this project, we will be analyzing data from:
 *Report on Juvenile Felony Arrests in California, 1998
 *
 
-![Picture of a cat](http://placekitten.com/400/300)
+![Investigating Crime](Black White Detective Murder Mystery Invitation.png/400/300)
 
 The formula I used was:
 
